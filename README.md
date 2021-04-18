@@ -7,6 +7,7 @@ Code demos, datasets and learning notes for 3-day course of Pandas library in py
 * [Setup](#setup)
 
 ### General info
+Pandas is one of the most significant library in Python, especially for data analysis.  
 This project includes all the code demos of on-class exercise and needed datasets, as well as learning notes for the 3-day learning.    
 Codes are in English version.  
 Notes are in Chinese version.    
